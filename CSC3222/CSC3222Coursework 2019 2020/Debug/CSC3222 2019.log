@@ -1,0 +1,9 @@
+﻿  GameSimsPhysics.cpp
+C:\Users\Sachin Chopra\Desktop\GamingSimulations\CSC3222\CSC3222Coursework 2019 2020\Pathing.h(136,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\GamingSimulations\CSC3222\CSC3222Coursework 2019 2020\Pathing.h(137,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\GamingSimulations\CSC3222\CSC3222Coursework 2019 2020\Pathing.h(138,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sachin Chopra\Desktop\GamingSimulations\CSC3222\CSC3222Coursework 2019 2020\GameSimsPhysics.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sachin Chopra\Desktop\GamingSimulations\CSC3222\CSC3222Coursework 2019 2020\GameSimsPhysics.cpp(166,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sachin Chopra\Desktop\GamingSimulations\CSC3222\CSC3222Coursework 2019 2020\GameSimsPhysics.cpp(243,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sachin Chopra\Desktop\GamingSimulations\CSC3222\CSC3222Coursework 2019 2020\GameSimsPhysics.cpp(350,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CSC3222 2019.vcxproj -> C:\Users\Sachin Chopra\Desktop\GamingSimulations\Win32\Debug\CSC3222 2019.exe
